@@ -57,7 +57,7 @@ Contact {#contact}
 - <i class="fa fa-envelope"></i> pack5050@gmail.com
 - <i class="fa fa-twitter"></i> FakeTwitter
 - <i class="fa fa-github"></i> github.com/bgreene15
-- <i class="fa fa-link"></i> [do not click](https://www.google.com/search?q=google&rlz=1C5CHFA_enUS807US807&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyCggGEAAYsQMYgAQyBggHEEUYQdIBBzk4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+- <i class="fa fa-link"></i> [do not click](https:google.com)
 - <i class="fa fa-phone"></i> 1-800-555-5555
 
 
